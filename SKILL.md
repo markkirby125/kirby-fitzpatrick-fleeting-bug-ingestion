@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-fleeting-bug-ingestion
-description: "Record raw terminal traces and hypotheses under structured alphanumeric IDs." Use this when working on fitzpatrick fleeting bug ingestion.
+description: "Record raw terminal traces and hypotheses under structured alphanumeric IDs. Use this when working on fitzpatrick fleeting bug ingestion."
 category: "Writing & Communication"
 triggers:
   - "fleeting bug ingestion"
